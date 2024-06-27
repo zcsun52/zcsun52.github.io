@@ -13,13 +13,8 @@ My research interests lie in the fields of autonomous driving and computer visio
 
 
 
-
-
-
-
-{% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
-{% include_relative _includes/services.md %}
+{% include_relative _includes/teaching.md %}
 
 
 ## Honors and Awards
