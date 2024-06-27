@@ -4,9 +4,9 @@
 
 <ul>
   <li>
-    China National Scholarship, 2024
+    China National Scholarship, 2019
   </li>
   <li>
-    China National Scholarship, 2019
+    China National Scholarship, 2017
   </li>
 </ul>
