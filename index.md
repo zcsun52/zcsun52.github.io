@@ -15,7 +15,6 @@ My research interests lie in the fields of autonomous driving and computer visio
 
 {% include_relative _includes/services.md %}
 {% include_relative _includes/teaching.md %}
+{% include_relative _includes/awards.md %}
 
 
-## Honors and Awards
-- **[2017, 2019]** China National Scholarship
