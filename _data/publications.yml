@@ -2,7 +2,14 @@ main:
 
   - title: A Comprehensive Gazebo Simulation for the Autonomous Racing GoKart Research Platform
     authors: Zhichao Sun
-    conference: Semester Project, ETH Zürich
+    conference: Semester Project(rated with full marks), ETH Zürich
     pdf: ./assets/files/SP_Final_Report.pdf
     code: https://github.com/
     image: ./assets/img/teaser_1.png
+
+  - title: CaSAR: Contact-aware Skeletal Action Recognition
+    authors: Junan Lin*, <strong>Zhichao Sun*</strong>, Enjie Cao*, Taein Kwon, Mahdi Rad, Marc Pollefeys <br> (* Equal contribution)
+    conference: 3DV course Project(rated with full marks), ETH Zürich
+    pdf: https://arxiv.org/abs/2309.10001v1
+    code: https://github.com/zcsun52/CaSAR-Contact-aware-Skeletal-Action-Recognition
+    image: ./assets/img/teaser_1.pdf
