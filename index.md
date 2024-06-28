@@ -9,7 +9,7 @@ I'm a Masters student in Robotics, System and Control at <a href="https://ethz.c
 
 
 ## Research Interests
-My research interests lie in the fields of **autonomous driving** and **3D perceptions**. I am passionate about developing innovative solutions that enhance the safety, efficiency, and capabilities of autonomous vehicles. Specifically, I focus on leveraging advanced computer vision techniques to improve the perception and decision-making processes of autonomous systems.
+My research interests lie in the fields of **autonomous driving**, **computer vision** and **robot perception**. I am passionate about developing innovative solutions that enhance the safety, efficiency, and capabilities of autonomous vehicles. Specifically, I focus on leveraging advanced computer vision techniques to improve the perception and decision-making processes of autonomous systems.
 
 
 {% include_relative _includes/research.md %}
